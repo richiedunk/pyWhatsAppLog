@@ -1,4 +1,8 @@
-# pyWhatsAppLog
+# Analysing WhatsApp messages with AWS
+
+The first step is to export your WhatsApp messages. I just downloaded a text file without media attachements, but you could put them in an S3 bucket or something if you wanted to.
+
+## pyWhatsAppLog
 A Python3 class to parse and analyse WhatsApp logs (sent via the "Email chat" option)
 
 Use with 
